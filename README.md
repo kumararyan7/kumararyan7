@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumararyan7
 - 👀 I’m interested in web developing and coding
 - 🌱 I’m currently learning phython and other languages
-- 💞️ I’m looking to collaborate on GEEKSKULLS
+- 💞️ I’m looking to collaborate on FLUIDCYPHER
 - 📫 How to reach me kumararyanmfp @insta
 
 <!---
