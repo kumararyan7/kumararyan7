@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumararyan7
-- SDET
+-    Software Developer | Automotive Software | C++ | Python | OTA | AI 
 - 📫 How to reach me kumararyangeek@gmail.com
 
 <!---
